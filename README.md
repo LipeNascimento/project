@@ -1,15 +1,15 @@
-## Projeto API RESTful com Node.js, Express e Sequelize
+##  Projeto API RESTful com Node.js, Express e Sequelize
 
 
 Este projeto é uma API RESTful desenvolvida com Node.js e Express.js, utilizando Sequelize como ORM para gerenciar um banco de dados MySQL. 
 A API oferece endpoints para operações de CRUD em itens, além de autenticação baseada em JWT para proteger as rotas.
 
-## Estrutura do Projeto
+##  Estrutura do Projeto
 
 ![Descrição da imagem](https://i.ibb.co/CPPxPTH/estrutura.png)
 
 
-## 📋 Funcionalidades
+##  Funcionalidades
 
 ### Autenticação:
 
@@ -26,7 +26,7 @@ A API oferece endpoints para operações de CRUD em itens, além de autenticaç�
 * Código organizado em controladores, middlewares, modelos e rotas.
 
 
-### 📋 Tecnologias Utilizadas
+###  Tecnologias Utilizadas
 
 
 * Node.js: Ambiente de execução para JavaScript.
@@ -37,7 +37,7 @@ A API oferece endpoints para operações de CRUD em itens, além de autenticaç�
 * Docker: Containerização para fácil configuração e execução do projeto.
 
 
-### 📋 Itens
+###  Itens
 
 # Rotas de Autenticação:
 
