@@ -53,7 +53,7 @@ A API oferece endpoints para operações de CRUD em itens, além de autenticaç�
 
 ### 📋 Link PDF da Apresentação
 
-https://1drv.ms/b/c/d689dfc038c2834e/EaIDUseIWOVFoU938WHqPN8BhhRXEoIjvfvaWmYGWAhJlQ?e=yKMHIA
+https://1drv.ms/b/c/d689dfc038c2834e/ERpFz-Xc_otIoew4tuWYp7EBDihh6XvgKMBOrUjK9FbnKw?e=PXxYlo
 
 ### 📋 Link Repositório DockerHub
 
