@@ -55,7 +55,7 @@ A API oferece endpoints para operações de CRUD em itens, além de autenticaç�
 
 https://1drv.ms/b/c/d689dfc038c2834e/EaIDUseIWOVFoU938WHqPN8BhhRXEoIjvfvaWmYGWAhJlQ?e=yKMHIA
 
-### 📋 Link DockerHub
+### 📋 Link Repositório DockerHub
 
 https://hub.docker.com/repository/docker/whitevilhena/projectapi/general
 
