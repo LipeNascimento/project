@@ -39,6 +39,11 @@ A API oferece endpoints para operações de CRUD em itens, além de autenticaç�
 
 ### 📋 Itens
 
+# Rotas de Autenticação:
+
+* Endpoint: /api/auth/login
+* Função: Gera um token JWT ao validar as credenciais do usuário.
+
 | Método       | Endpoint       | Descrição               |
 | :---         |     :---:      |          :---:           |
 | GET          | /api/items     | Lista todos os itens    |
@@ -46,11 +51,17 @@ A API oferece endpoints para operações de CRUD em itens, além de autenticaç�
 | POST         | /api/items     | Cria um novo item       |
 | PUT          | /api/items/:id | Atualiza os dados de um item|
 
-### 📋 PDF da Apresentação
+### 📋 Link PDF da Apresentação
 
+https://1drv.ms/b/c/d689dfc038c2834e/EaIDUseIWOVFoU938WHqPN8BhhRXEoIjvfvaWmYGWAhJlQ?e=yKMHIA
 
+### 📋 Link DockerHub
+
+https://hub.docker.com/repository/docker/whitevilhena/projectapi/general
 
 ### 📋 Link Apresenteçao em Video
+
+
 
 
 ### 📋 Integrantes
