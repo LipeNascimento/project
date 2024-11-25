@@ -37,9 +37,7 @@ A API oferece endpoints para operações de CRUD em itens, além de autenticaç�
 * Docker: Containerização para fácil configuração e execução do projeto.
 
 
-###  Itens
-
-# Rotas de Autenticação:
+### Rotas de Autenticação:
 
 * Endpoint: /api/auth/login
 * Função: Gera um token JWT ao validar as credenciais do usuário.
