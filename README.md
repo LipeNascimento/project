@@ -1,32 +1,32 @@
-##  Projeto API RESTful com Node.js, Express e Sequelize
+## ⚙️ Projeto API RESTful com Node.js, Express e Sequelize
 
 
 Este projeto é uma API RESTful desenvolvida com Node.js e Express.js, utilizando Sequelize como ORM para gerenciar um banco de dados MySQL. 
 A API oferece endpoints para operações de CRUD em itens, além de autenticação baseada em JWT para proteger as rotas.
 
-##  Estrutura do Projeto
+## 🛠️ Estrutura do Projeto
 
 ![Descrição da imagem](https://i.ibb.co/CPPxPTH/estrutura.png)
 
 
-##  Funcionalidades
+## 🔧 Funcionalidades
 
-### Autenticação:
+###  Autenticação:
 
 * Login de usuário com geração de token JWT.
 * Middleware para validação do token e proteção de rotas.
 
-### Gerenciamento de Itens:
+###  Gerenciamento de Itens:
 
 * Criar, listar, atualizar e buscar itens por ID.
 * Banco de dados relacional utilizando Sequelize.
 
-### Estrutura Modular:
+###  Estrutura Modular:
 
 * Código organizado em controladores, middlewares, modelos e rotas.
 
 
-###  Tecnologias Utilizadas
+### ⚙️ Tecnologias Utilizadas
 
 
 * Node.js: Ambiente de execução para JavaScript.
@@ -37,7 +37,7 @@ A API oferece endpoints para operações de CRUD em itens, além de autenticaç�
 * Docker: Containerização para fácil configuração e execução do projeto.
 
 
-### Rotas de Autenticação:
+### 📦 Rotas de Autenticação:
 
 * Endpoint: /api/auth/login
 * Função: Gera um token JWT ao validar as credenciais do usuário.
@@ -49,20 +49,20 @@ A API oferece endpoints para operações de CRUD em itens, além de autenticaç�
 | POST         | /api/items     | Cria um novo item       |
 | PUT          | /api/items/:id | Atualiza os dados de um item|
 
-### 📋 Link PDF da Apresentação
+### 📌 Link PDF da Apresentação
 
 https://1drv.ms/b/c/d689dfc038c2834e/ERpFz-Xc_otIoew4tuWYp7EBDihh6XvgKMBOrUjK9FbnKw?e=0FSDME
 
-### 📋 Link Repositório DockerHub
+### 📌 Link Repositório DockerHub
 
 https://hub.docker.com/repository/docker/whitevilhena/projectapi/general
 
-### 📋 Link Apresenteçao em Video
+### 📌 Link Apresenteçao em Video
 
 
 
 
-### 📋 Integrantes
+### ✒️ Integrantes
 
 * Weslley Bruno Almeida Santos – 32328864
 * Felipe Reis Nascimento – 323210811
