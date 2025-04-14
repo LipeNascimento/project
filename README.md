@@ -43,7 +43,7 @@ A API oferece endpoints para operações de CRUD em itens, além de autenticaç�
 * Função: Gera um token JWT ao validar as credenciais do usuário.
 
 | Método       | Endpoint       | Descrição               |
-| :---         |     :---:      |          :---:           |
+| :---         |     :---:      |          :---:          |
 | GET          | /api/items     | Lista todos os itens    |
 | GET          | /api/items/:id	| Retorna um item pelo ID |
 | POST         | /api/items     | Cria um novo item       |
